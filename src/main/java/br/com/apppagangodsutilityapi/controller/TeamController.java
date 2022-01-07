@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/v1/pagan-gods/team")
+@RequestMapping("/v1/pagan-gods/teams")
 @AllArgsConstructor
 public class TeamController {
 
